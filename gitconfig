@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = michaelrosenfeld91@gmail.com
+	name = Michael Rosenfeld
